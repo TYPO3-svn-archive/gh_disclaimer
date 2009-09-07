@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_ghdisclaimer_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="accept_button_label">Yes, I accept</label>
+			<label index="reject_button_label">No, I do not accept</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="accept_button_label">Ja, ich stimme zu</label>
+			<label index="reject_button_label">Nein, ich stimme nicht zu</label>
+		</languageKey>
+	</data>
+</T3locallang>

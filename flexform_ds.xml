@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<T3DataStructure>
+	<meta>
+		<langDisable>1</langDisable>
+	</meta>
+	<ROOT>
+		<type>array</type>
+		<el>
+			<inputDefaultAcceptTarget>
+				<TCEforms>
+					<label>LLL:EXT:gh_disclaimer/locallang_db.xml:gh_disclaimer.pi_flexform.default_target</label>
+					<config>
+						<type>group</type>
+						<internal_type>db</internal_type>
+						<allowed>pages</allowed>
+						<size>1</size>
+						<maxitems>1</maxitems>
+						<minitems>1</minitems>
+						<showThumbs>0</showThumbs>
+					</config>
+				</TCEforms>
+			</inputDefaultAcceptTarget>
+			<inputDenyTarget>
+				<TCEforms>
+					<label>LLL:EXT:gh_disclaimer/locallang_db.xml:gh_disclaimer.pi_flexform.deny_target</label>
+					<config>
+						<type>group</type>
+						<internal_type>db</internal_type>
+						<allowed>pages</allowed>
+						<size>1</size>
+						<maxitems>1</maxitems>
+						<minitems>1</minitems>
+						<showThumbs>0</showThumbs>
+					</config>
+				</TCEforms>
+			</inputDenyTarget>
+		</el>
+	</ROOT>
+</T3DataStructure>

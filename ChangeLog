@@ -1,0 +1,17 @@
+2009-09-07 Gregor Hermens  <gregor.hermens@a-mazing.de>
+
+	* fixed bug: Wrong redirection target if TYPO3 is not installed in DOCUMENT_ROOT
+	* release 0.1.1
+
+2007-12-16 Gregor Hermens  <gregor.hermens@a-mazing.de>
+
+  * Added some documentation
+  * release 0.1.0
+
+2007-12-15 Gregor Hermens  <gregor.hermens@a-mazing.de>
+
+  * Added the PID of the disclaimer page to the session key, so multiple disclaimers can be used to protect multiple pages.
+
+2007-12-13 Gregor Hermens  <gregor.hermens@a-mazing.de>
+
+	* Initial release
